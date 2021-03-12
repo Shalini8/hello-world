@@ -1,4 +1,4 @@
 #! bin/bash -x
 
-echo"hello world"
-echo"shalini"
+echo "hello world"
+echo "shalini"
